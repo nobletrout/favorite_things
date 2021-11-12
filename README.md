@@ -21,7 +21,8 @@ this is a test of stuff
 |                            | results for generated resources (for example if you have custom resources or want to catch orphaned resources where the |
 |                            | owner resource no longer exists) you can use this flag.                                                                 |
 +------------------------------------------------------------------------------------------------------------------------------------------------------+
-| -m    | --minseverity      | Set the lowest severity level to report (one of "error", "warning", "info") (default "info")                            | +------------------------------------------------------------------------------------------------------------------------------------------------------+
+| -m    | --minseverity      | Set the lowest severity level to report (one of "error", "warning", "info") (default "info")                            | 
++------------------------------------------------------------------------------------------------------------------------------------------------------+
 | -e    | --exitcode         | Exit code to use if there are results with severity of "error". Conventionally, 0 is used for success and all non-zero  |
 |                            | codes for an error. (default 2)                                                                                         |
 +------------------------------------------------------------------------------------------------------------------------------------------------------+
