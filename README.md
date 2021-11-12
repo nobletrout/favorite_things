@@ -4,6 +4,8 @@ a pile of things that make life easier. vimrc, bash profile, etc.
 
 this is a test of stuff
 
+```
+
 +------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Short | Long               | Description                                                                                                             |
 +=======+====================+=========================================================================================================================+ 
@@ -23,4 +25,4 @@ this is a test of stuff
 | -e    | --exitcode         | Exit code to use if there are results with severity of "error". Conventionally, 0 is used for success and all non-zero  |
 |                            | codes for an error. (default 2)                                                                                         |
 +------------------------------------------------------------------------------------------------------------------------------------------------------+
-
+```
